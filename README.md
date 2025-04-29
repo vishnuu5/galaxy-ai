@@ -2,6 +2,9 @@
 
 A complete full-stack application built with React (Vite), Node.js, Express, MongoDB, and Cloudinary.
 
+## Demo
+Click => [Here](https://galaxy-ai-one.vercel.app)
+
 ## Features
 
 - User authentication (register, login, logout)
